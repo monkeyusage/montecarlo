@@ -1,2 +1,2 @@
 # montecarlo
-montecarlo simulation
+montecarlo simulation ==> just use julia for numerical computing...
